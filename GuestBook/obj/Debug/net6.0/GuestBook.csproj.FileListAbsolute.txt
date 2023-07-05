@@ -1,0 +1,15 @@
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.exe
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.deps.json
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.runtimeconfig.json
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.dll
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\bin\Debug\net6.0\GuestBook.pdb
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.dll
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\refint\GuestBook.dll
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.pdb
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\GuestBook.genruntimeconfig.cache
+C:\Users\ayoub\source\repos\GuestBookApp\GuestBook\obj\Debug\net6.0\ref\GuestBook.dll

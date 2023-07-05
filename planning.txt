@@ -1,0 +1,18 @@
+Build a Console Guest Book. Ask the user for their name and how many are in their party. Keep track of how many people are at the party. At the end, print out the guest list and the total number of guests.
+
+
+Welcome the user (Intro the app name as well)
+
+Ask user for their name
+Store the name
+
+Ask user for number in party
+<convert string to number>
+Add the number to the total
+
+Check to see if more guests are coming
+Loop back to the top until no more guests
+
+Loop over the names list and print them
+
+Print the total guest count
